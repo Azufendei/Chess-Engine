@@ -5,4 +5,4 @@ following tutorial series by Eddie Sharrick, this project utilised alpha beta pr
 To Implement:
 
 GUI for choosing player 1 and player 2
-GUI for selecting different boards and chess p
+GUI for selecting different boards and chess pieces
